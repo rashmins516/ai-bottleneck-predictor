@@ -1,0 +1,6 @@
+numpy>=1.23
+pandas>=1.5
+scikit-learn>=1.2   # HistGradientBoostingClassifier(class_weight=...)
+joblib>=1.2
+pytest>=7           # tests only
+# optional, for Phase 5 cross-check:  sudo apt install sysstat   (iostat >= 11.6 for -o JSON)
